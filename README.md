@@ -80,10 +80,10 @@ Requirements:
 ---
 
 ```
-git clone https://github.com/spyboy-productions/Facad1ng.git
+git clone https://github.com/arianafs/arianaurl
 ```
 ```
-cd Facad1ng
+cd arianaurl
 ```
 ```
 pip3 install -r requirements.txt
