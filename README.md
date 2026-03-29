@@ -1,0 +1,2 @@
+# arianaurl
+Script termux
